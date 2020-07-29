@@ -1,0 +1,16 @@
+{
+  "name": "ohif-repro",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@ohif/viewer": "^4.2.13",
+    "vue": "^3.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "vite": "^1.0.0-rc.3"
+  }
+}
